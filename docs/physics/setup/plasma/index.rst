@@ -5,7 +5,7 @@ Plasma
 ******
 
 
-The role of the plasma module is to determine the ionisation and excitation states of the elements of the 
+The role of the plasma module is to determine the ionization and excitation states of the elements of the 
 supernova ejecta, given the basic structure, including the elemental abundances, densities and radiation temperature.
 After the calculation of the plasma state, the :math:`\tau_{\textrm{sobolev}}` values can be calculated.
 
